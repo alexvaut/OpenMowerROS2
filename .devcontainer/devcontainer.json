@@ -15,7 +15,9 @@
 				"eamodio.gitlens",
 				"ms-iot.vscode-ros",
 				"ms-vscode.makefile-tools",
-				"DotJoshJohnson.xml"
+				"DotJoshJohnson.xml",
+                "Codeium.codeium",
+                "ms-azuretools.vscode-docker"
 			]
         }
     },
